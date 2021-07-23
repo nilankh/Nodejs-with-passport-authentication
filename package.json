@@ -4,7 +4,7 @@
   "description": "creating project",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "nodemon app.js",
     "dev": "nodemon app.js"
   },
   "author": "nilanknikhil",
